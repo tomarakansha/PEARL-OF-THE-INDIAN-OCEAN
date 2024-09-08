@@ -1,3 +1,3 @@
 # myfile
-author ~akansha <br> <H>
+author ~akansha (tomar)<br> <H>
 this is commit</H>
